@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "GameStare",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "cloud0": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -437
+            },
+            {
+              "frame": 2,
+              "value": -420
+            },
+            {
+              "frame": 4,
+              "value": -437
+            }
+          ]
+        }
+      },
+      "cloud1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -336
+            },
+            {
+              "frame": 3,
+              "value": -318
+            }
+          ]
+        }
+      },
+      "cloud2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": -223
+            },
+            {
+              "frame": 4,
+              "value": -198
+            }
+          ]
+        }
+      },
+      "cloud3": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.5,
+              "value": -140
+            },
+            {
+              "frame": 2.9,
+              "value": -117
+            }
+          ]
+        }
+      },
+      "cloud4": {
+        "props": {
+          "y": [
+            {
+              "frame": 1.1,
+              "value": -140
+            },
+            {
+              "frame": 3.5,
+              "value": -110
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
