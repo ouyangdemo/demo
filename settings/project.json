@@ -1,0 +1,73 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      true,
+      true
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "Default",
+    "Player",
+    "Enemy",
+    "Terrain",
+    "Resource",
+    "Trigger"
+  ],
+  "start-scene": "current",
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": false,
+  "simulator-resolution": {
+    "width": 960,
+    "height": 640
+  }
+}

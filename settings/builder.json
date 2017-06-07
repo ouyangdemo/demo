@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnysdk": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.dog67",
+  "startScene": "c0479cb6-b30c-4d42-bbd9-fc6ceb5ac3b3",
+  "title": "dog67",
+  "webOrientation": "auto"
+}
